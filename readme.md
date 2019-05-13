@@ -397,12 +397,12 @@ Bosch IIOT Gateway with a OSGi based gateway software. Add your own logic in the
 >   - User mode
 > - How to access the data?
 >   - Bosch Developer Portal
->   - Bosch Thermotechnology API
+>   - [Bosch Thermotechnology API](https://developer.bosch.com/web/bosch-thermotechnology-device-api)
 
 ### Documentation EasyControl BCX
 
 - EasyControl of Bosch - <https://www.bosch-easycontrol.com>
-- Bosch Thermotechnology API -  <https://developer.bosch.com/web/bosch-thermotechnology-device-api/overview>
+- Bosch Thermotechnology API -  <https://developer.bosch.com/web/bosch-thermotechnology-device-api>
 - Join our community - <https://community.developer.bosch.com>
 
 ### EasyControl Starters :rocket:
