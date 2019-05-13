@@ -402,7 +402,7 @@ Bosch IIOT Gateway with a OSGi based gateway software. Add your own logic in the
 ### Documentation EasyControl BCX
 
 - EasyControl of Bosch - <https://www.bosch-easycontrol.com>
-- Bosch Thermotechnology API -  <https://developer.bosch.com>
+- Bosch Thermotechnology API -  <https://developer.bosch.com/web/bosch-thermotechnology-device-api/overview>
 - Join our community - <https://community.developer.bosch.com>
 
 ### EasyControl Starters :rocket:
